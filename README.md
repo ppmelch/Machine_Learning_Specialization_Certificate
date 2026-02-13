@@ -1,6 +1,6 @@
 # Machine Learning Specialization Certificate
 
-This repository contains notebooks and exercise files from my **Machine Learning Specialization** on Coursera, taught by **Andrew Ng**. :contentReference[oaicite:2]{index=2}
+This repository contains notebooks and exercise files from my **Machine Learning Specialization** on Coursera, taught by **Andrew Ng**. : https://www.coursera.org/specializations/machine-learning-introduction
 
 The specialization is a foundational program in machine learning that teaches the core concepts, algorithms, and practical skills for building and evaluating predictive models. :contentReference[oaicite:3]{index=3}
 
